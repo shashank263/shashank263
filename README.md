@@ -1,23 +1,29 @@
-- 👋 Hi, I’m @shashank263
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- # Grammar Correction Project ✍️
+# 👋 Hello, I'm Sai Shashank Reddy!
 
-This project is an AI-powered grammar correction tool that detects and corrects grammatical errors in English sentences. It can be used for educational tools, writing assistants, and more.
+🎓 I’m a student passionate about **AI**, **ML**, and **Web Development**.  
+💻 I love building real-world projects that solve practical problems.  
+🚀 Currently working on: Grammar Correction using NLP and Python  
+📚 Always learning and exploring new tech and frameworks
 
-## 🚀 Features
-- Detects grammatical mistakes in input text
-- Suggests corrected versions of the input
-- User-friendly interface (CLI/Web-based, if applicable)
-- Can be extended with deep learning models (e.g., Transformers)
+## 🛠️ Technologies & Tools
+- 💻 Languages: Python, Java, JavaScript, HTML, CSS
+- 🌐 Web: Flask, VS Code, GitHub
+- 📊 Machine Learning: Scikit-learn, NLTK, TensorFlow (beginner)
+- 🧠 Interests: AI, Deep Learning, Natural Language Processing, Web Apps
 
-## 🛠️ Technologies Used
-- Python
-- NLP libraries (e.g., spaCy, NLTK, LanguageTool)
-- (Optional) Deep Learning – Transformers, BERT, T5
-- Streamlit / Flask (if there's a frontend)
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashank263&show_icons=true&theme=radical)
 
-## 📁 Project Structure
+## 📌 Pinned Projects
+- 🔤 [Grammar Correction Tool](https://github.com/shashank263/grammer-correction)
+- 📘 Add more projects here as you build them!
+
+## 📫 Let's Connect!
+- ✉️ [Email](mailto:youremail@example.com)
+
+---
+
+_Thanks for visiting! Keep coding and keep growing 🚀_
 
 
 <!---
