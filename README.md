@@ -2,7 +2,7 @@
 
  I’m a student passionate about **AI**, **ML**, and **Web Development**.  
  I love building real-world projects that solve practical problems.  
- Currently working on: Grammar Correction using NLP and Python  
+ Currently working on: resume checker project
  Always learning and exploring new tech and frameworks
 
 ## Technologies & Tools
