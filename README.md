@@ -1,29 +1,27 @@
-# 👋 Hello, I'm Sai Shashank Reddy!
+#Hello, I'm Sai Shashank Reddy!
 
-🎓 I’m a student passionate about **AI**, **ML**, and **Web Development**.  
-💻 I love building real-world projects that solve practical problems.  
-🚀 Currently working on: Grammar Correction using NLP and Python  
-📚 Always learning and exploring new tech and frameworks
+ I’m a student passionate about **AI**, **ML**, and **Web Development**.  
+ I love building real-world projects that solve practical problems.  
+ Currently working on: Grammar Correction using NLP and Python  
+ Always learning and exploring new tech and frameworks
 
-## 🛠️ Technologies & Tools
-- 💻 Languages: Python, Java, JavaScript, HTML, CSS
-- 🌐 Web: Flask, VS Code, GitHub
-- 📊 Machine Learning: Scikit-learn, NLTK, TensorFlow (beginner)
-- 🧠 Interests: AI, Deep Learning, Natural Language Processing, Web Apps
+## Technologies & Tools
+- Languages: Python, Java, JavaScript, HTML, CSS
+-  Web: Flask, VS Code, GitHub
+-  Machine Learning: Scikit-learn, NLTK, TensorFlow (beginner)
+-  Interests: AI, Deep Learning, Natural Language Processing, Web Apps
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashank263&show_icons=true&theme=radical)
 
-## 📌 Pinned Projects
-- 🔤 [Grammar Correction Tool](https://github.com/shashank263/grammer-correction)
-- 📘 Add more projects here as you build them!
+##  Pinned Projects
+-  [Grammar Correction Tool](https://github.com/shashank263/grammer-correction)
+  
 
 ## 📫 Let's Connect!
-- ✉️ [Email](mailto:youremail@example.com)
+- ✉️ [Email](s.shashankreddy24@gmail.com)
 
----
-
-_Thanks for visiting! Keep coding and keep growing 🚀_
+Thanks for visiting! Keep coding and keep growing 
 
 
 <!---
