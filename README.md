@@ -19,9 +19,7 @@ I love building "real-world projects that solve practical problems" and help me 
 
 - [Grammar Correction Tool](https://github.com/shashank263/grammer-correction) – NLP-based sentence grammar correction.
 - [Resume Screening Backend](https://github.com/shashank263/resume_screening) – Flask backend for HR automation.
-- [Portfolio Website](https://github.com/shashank263/portfolio-website) – Personal portfolio showcasing projects and skills.
-- [React To-Do App](https://github.com/shashank263/react-todo) – Simple React app for managing tasks.
-- [ML Iris Classification](https://github.com/shashank263/ml-iris-classification) – Basic ML classification project.
+
 
 ---
 
