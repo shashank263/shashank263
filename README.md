@@ -39,7 +39,7 @@ I am currently **learning advanced ML models** and **enhancing my full-stack web
 
 ## 📈 GitHub Stats
 
-![Sai Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Sai Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=saishashankreddy&show_icons=true&theme=radical)
 
 ---
 
@@ -55,8 +55,7 @@ I am currently **learning advanced ML models** and **enhancing my full-stack web
 
 In my free time, I love experimenting with **ML mini-projects** and building **web utilities** to sharpen my skills.
 
-- [**Deepfake Detection**](https://github.com/YOUR_GITHUB_USERNAME/deepfake-detection): A deep learning project to detect fake videos using CNN and LSTM models.  
-- [**Tic Tac Toe Web Game**](https://github.com/YOUR_GITHUB_USERNAME/tic-tac-toe): A browser-based Tic Tac Toe game using HTML, CSS, and JavaScript.
+- [**Deepfake Detection**](https://github.com/YOUR_GITHUB_USERNAME/deepfake-detection): A deep learning project to detect fake videos using CNN and LSTM models.
 
 ---
 
