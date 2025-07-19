@@ -1,29 +1,68 @@
-# Hello, I'm Sai Shashank Reddy! 
+## Hello, I'm Sai Shashank Reddy! 👋
 
-I’m a student passionate about ARTIFICIAL INTELLIGENCE (AI), Machine Learning (ML), and Web Development.
-I love building "real-world projects that solve practical problems" and help me learn systematically.
+### About Me
 
-🚀 **Currently working on:** React projects and deploying backend mini-projects on GitHub.  
-🎯 **Goal:** Consistently learn, practice, and contribute to open-source projects.
+I’m a student passionate about **ARTIFICIAL INTELLIGENCE (AI)**, **Machine Learning (ML)**, and **Web Development**. I love exploring how **AI and ML** can solve real-world problems while building clean, interactive applications for the web.
 
+I am currently **learning advanced ML models** and **enhancing my full-stack web development skills**.
 
-##  Technologies & Tools
-- **Languages:** Python, Java, JavaScript, HTML, CSS
-- **Web Development:** Flask, React (learning), VS Code, GitHub
-- **Machine Learning:** Scikit-learn, NLTK, TensorFlow (beginner level)
-- **Interests**:ARTIFICIAL INTELLIGENCE, Deep Learning, Natural Language Processing, Building Web Apps
-
-
-
-## 📌 Pinned Projects
-
-- [Grammar Correction Tool](https://github.com/shashank263/grammer-correction) – NLP-based sentence grammar correction.
-- [Resume Screening Backend](https://github.com/shashank263/resume_screening) – Flask backend for HR automation.
-
+- 🤝 Looking to collaborate on **AI and ML projects** as well as **web development tools**  
+- 🎮 Fun fact: I enjoy exploring technology trends and working on projects that improve my coding skills.
 
 ---
 
-## 📫 Let's Connect!
-Email: [s.shashankreddy24@gmail.com](mailto:s.shashankreddy24@gmail.com)
-  
-✨ Thanks for visiting my GitHub! Keep coding, keep growing, and keep building projects that matter! 
+## 🛠️ Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white)
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb&logoColor=white)
+
+**Tools & Others:**  
+![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000?logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-000?logo=anaconda&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000?logo=figma&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Sai Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🚀 Projects
+
+- [**UPI Fraud Detection**](https://github.com/YOUR_GITHUB_USERNAME/upi-fraud-detection): A machine learning project to detect fraudulent UPI transactions using classification models.  
+- [**AI Content Writer**](https://github.com/YOUR_GITHUB_USERNAME/ai-grammer-correction): A web application that generates content using AI and NLP models.  
+- [****](https://github.com/YOUR_GITHUB_USERNAME/resumescreening): A simple Java-based currency converter application with a clean interface.
+
+---
+
+## 🎨 Fun Projects
+
+In my free time, I love experimenting with **ML mini-projects** and building **web utilities** to sharpen my skills.
+
+- [**Deepfake Detection**](https://github.com/YOUR_GITHUB_USERNAME/deepfake-detection): A deep learning project to detect fake videos using CNN and LSTM models.  
+- [**Tic Tac Toe Web Game**](https://github.com/YOUR_GITHUB_USERNAME/tic-tac-toe): A browser-based Tic Tac Toe game using HTML, CSS, and JavaScript.
+
+---
+
+## HOW TO Reach Me
+[![Gmail](https://img.shields.io/badge/Gmail-000?logo=gmail&logoColor=EA4335)](mailto:s.shashankreddy24@gmail.com)
+
+---
+
+Thanks for stoping by !
