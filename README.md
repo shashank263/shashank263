@@ -39,15 +39,15 @@ I am currently **learning advanced ML models** and **enhancing my full-stack web
 
 ## 📈 GitHub Stats
 
-![Sai Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=saishashankreddy&show_icons=true&theme=radical)
+![Sai Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashank263&show_icons=true&theme=radical)
 
 ---
 
 ## 🚀 Projects
 
-- [**UPI Fraud Detection**](https://github.com/YOUR_GITHUB_USERNAME/upi-fraud-detection): A machine learning project to detect fraudulent UPI transactions using classification models.  
-- [**AI Content Writer**](https://github.com/YOUR_GITHUB_USERNAME/ai-grammer-correction): A web application that generates content using AI and NLP models.  
-- [****](https://github.com/YOUR_GITHUB_USERNAME/resumescreening): A simple Java-based currency converter application with a clean interface.
+-[**DeepfakeDetection of images**](https://github.com/shashank263/DeepFake-Detection-Using-CNN): A machine learning project to detect fraudulent UPI transactions using classification models.  
+- [**AI grammer Corection**](https://github.com/shashank263/grammer-correction): A web application that generates content using AI and NLP models.  
+- [**resumescreening**](https://github.com/shashank263/resume_screening): A simple Java-based currency converter application with a clean interface.
 
 ---
 
@@ -55,7 +55,7 @@ I am currently **learning advanced ML models** and **enhancing my full-stack web
 
 In my free time, I love experimenting with **ML mini-projects** and building **web utilities** to sharpen my skills.
 
-- [**Deepfake Detection**](https://github.com/YOUR_GITHUB_USERNAME/deepfake-detection): A deep learning project to detect fake videos using CNN and LSTM models.
+- [**Deepfake Detection**](https://github.com/shashank263/DeepFake-Detection-Using-CNN): A deep learning project to detect fake videos using CNN and LSTM models.
 
 ---
 
