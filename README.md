@@ -9,7 +9,6 @@ I am currently **learning advanced ML models** and **enhancing my full-stack web
 - 🤝 Looking to collaborate on **AI and ML projects** as well as **web development tools**  
 - 🎮 Fun fact: I enjoy exploring technology trends and working on projects that improve my coding skills.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -35,21 +34,18 @@ I am currently **learning advanced ML models** and **enhancing my full-stack web
 ![Anaconda](https://img.shields.io/badge/Anaconda-000?logo=anaconda&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000?logo=figma&logoColor=white)
 
----
 
 ## 📈 GitHub Stats
 
 ![Sai Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashank263&show_icons=true&theme=radical)
 
----
 
 ## 🚀 Projects
 
- -[**DeepfakeDetection of images**](https://github.com/shashank263/DeepFake-Detection-Using-CNN): A machine learning project to detect fraudulent UPI transactions       using classification models.  
+- [**DeepfakeDetection of images**](https://github.com/shashank263/DeepFake-Detection-Using-CNN): A machine learning project to detect fraudulent UPI transactions       using classification models.  
 - [**AI grammer Corection**](https://github.com/shashank263/grammer-correction): A web application that generates content using AI and NLP models.  
 - [**resumescreening**](https://github.com/shashank263/resume_screening): A simple Java-based currency converter application with a clean interface.
 
----
 
 ## 🎨 Fun Projects
 
@@ -57,11 +53,10 @@ In my free time, I love experimenting with **ML mini-projects** and building **w
 
 - [**Deepfake Detection**](https://github.com/shashank263/DeepFake-Detection-Using-CNN): A deep learning project to detect fake videos using CNN and LSTM models.
 
----
+
 
 ## HOW TO Reach Me
 [![Gmail](https://img.shields.io/badge/Gmail-000?logo=gmail&logoColor=EA4335)](mailto:s.shashankreddy24@gmail.com)
 
----
 
 Thanks for stoping by !
