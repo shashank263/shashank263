@@ -45,7 +45,7 @@ I am currently **learning advanced ML models** and **enhancing my full-stack web
 
 ## 🚀 Projects
 
--[**DeepfakeDetection of images**](https://github.com/shashank263/DeepFake-Detection-Using-CNN): A machine learning project to detect fraudulent UPI transactions using classification models.  
+ -[**DeepfakeDetection of images**](https://github.com/shashank263/DeepFake-Detection-Using-CNN): A machine learning project to detect fraudulent UPI transactions       using classification models.  
 - [**AI grammer Corection**](https://github.com/shashank263/grammer-correction): A web application that generates content using AI and NLP models.  
 - [**resumescreening**](https://github.com/shashank263/resume_screening): A simple Java-based currency converter application with a clean interface.
 
